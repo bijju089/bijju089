@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm BijjuXD</h1>
 <h3 align="center">Java Developer and Resource Creator</h3>
-## Featured Resource:
+## Featured Resource: <br>
 [Aurora Theme for NamelessMC](https://github.com/bijju089/aurora-theme)
 
 ### Programming Languages
