@@ -3,10 +3,10 @@
 <a href="https://discord.com/channels/@me/1002477980104282172"><h4 align="center">Contact me @bijjuxd on discord for pricing</h4></a>
 
 ### I'm Familiar With
-[![My Programming Skills](https://skillicons.dev/icons?i=java,html,css,js,github,php,maven,mysql,gradle&perline=6)](https://github.com/bijju089)
+[![My Programming Skills](https://skillicons.dev/icons?i=java,html,css,js,github,php,maven,mysql,redis,react,nodejs,sqlite&perline=6)](https://github.com/bijju089)
 
 ### I'm Still Learning
-[![My Programming Skills](https://skillicons.dev/icons?i=redis,go,nest&perline=6)](https://github.com/bijju089) <br>
+[![My Programming Skills](https://skillicons.dev/icons?i=c,&perline=6)](https://github.com/bijju089) <br>
 
 ## I work on
 <a href="https://github.com/cxstudios-llc">
