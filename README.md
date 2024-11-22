@@ -4,17 +4,9 @@
 <br>
 <div align="center">
   
-[![My Programming Skills](https://skillicons.dev/icons?i=java,html,css,js,github,php,maven,mysql,redis,react,nodejs,sqlite&perline=6)](https://github.com/bijju089)
+[![Tools, Lang, Programs](https://skillicons.dev/icons?i=java,html,css,js,github,php,maven,mysql,redis,react,nodejs,sqlite,nextjs,vercel,vite,vscode,idea,laravel&perline=6)](https://github.com/bijju089)
 <br>
 
-[![My Programming Skills](https://github-readme-stats.vercel.app/api?username=bijju089&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/bijju089) <br>
+[![stats](https://github-readme-stats.vercel.app/api?username=bijju089&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)](https://github.com/bijju089) <br>
 </div>
-
-## I work on
-<a href="https://github.com/cxstudios-llc">
-  <img src="https://github.com/bijju089/bijju089/blob/main/assets/cx_bg.jpg?raw=true" alt="cxSTUDIOS" width="50" height="50">
-</a>
-<a href="https://github.com/mcst-hosting">
-  <img src="https://github.com/bijju089/bijju089/blob/main/assets/mcstio_larger.png?raw=true" alt="MCST" width="50" height="50">
-</a>
 
